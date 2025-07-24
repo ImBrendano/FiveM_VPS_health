@@ -1,3 +1,11 @@
+
+
+![alt text](https://i.ibb.co/DDQh7Wt8/serverstatustool1.png)
+![alt text](https://i.ibb.co/9kKzMFdt/serverstatustool2.png)
+![alt text](https://i.ibb.co/r2d7V0zb/serverstatustool4.png)
+
+
+
 To use, create a new file using the command "vi healthcheck.sh" or "nano healthchech.sh" depending on your distro
 
 for vi paste it, hit esc and type :wq and hit enter
