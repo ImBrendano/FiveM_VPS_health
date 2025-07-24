@@ -1,4 +1,4 @@
-
+edit: forgot to add, the serverstats.sh has a config variable at the top to turn off/on automatic linux apt/yum/dnf updates and increase FX Logs. You will need a crontab/service that runs the monitor regularly, for you to take full advantage of autoupdates.
 
 ![alt text](https://i.ibb.co/DDQh7Wt8/serverstatustool1.png)
 ![alt text](https://i.ibb.co/9kKzMFdt/serverstatustool2.png)
