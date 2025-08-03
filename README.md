@@ -1,5 +1,7 @@
-Buy Me a Coffee? Thanks :>
+<a href='https://ko-fi.com/G2G81E5J4O' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> Thanks :>
 https://ko-fi.com/imbrendano
+
+# FiveM VPS Health Tool
 
 edit: forgot to add, the serverstats.sh has a config variable at the top to turn off/on automatic linux apt/yum/dnf updates and increase FX Logs. You will need a crontab/service that runs the monitor regularly, for you to take full advantage of autoupdates.
 
